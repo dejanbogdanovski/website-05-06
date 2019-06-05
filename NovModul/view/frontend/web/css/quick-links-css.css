@@ -1,0 +1,54 @@
+.quick-links{
+	width: 100%;
+	height: auto;
+	background-color: black;
+	margin: 0px;
+}
+
+.quick-links-row {
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: row;
+	justify-content: space-between;
+	color: red;
+	margin-left: 10%;
+	margin-right: 10%;
+	background-color: black;
+	align-items: center;
+}
+.quick-links-item {
+	width: 14%;
+	text-align: left;
+	margin-left: 0px;
+}
+.quick-links-tit-white{
+	color: white;
+}
+.quick-links-horisontal-line {
+	width: 30%;
+	height: 3px;
+	background-color: red;
+}
+.quick-links-news{
+	text-align: left;
+	align-self: flex-start;
+}
+.news-span-display-block{
+	display: block;
+}
+.news-input-search{
+	background-color: gray
+}
+.news-button {
+  background-color: red;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius:20px;
+}

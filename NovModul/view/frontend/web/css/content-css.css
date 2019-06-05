@@ -1,0 +1,121 @@
+/*Content under nav menu-beginning*/
+.images-row { 
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+.first-image{
+	background-image: url('Dejan_NovModul::images/first.jpg');
+	background-position: center center;
+	background-repeat: no-repeat;
+	width: 50%;
+	background-size: cover;
+}
+.second-image{
+	background-image: url('Dejan_NovModul::images/second.jpg');
+	background-position: center center;
+	background-repeat: no-repeat;
+	width: 50%;
+	background-size: cover;
+}
+.third-image{
+	background-image: url('Dejan_NovModul::images/third.jpg');
+	background-position: center center;
+	background-repeat: no-repeat;
+	width: 50%;
+	background-size: cover;
+}
+.forth-image{
+	background-image: url('Dejan_NovModul::images/forth.jpg');
+	background-position: center center;
+	background-repeat: no-repeat;
+	width: 50%;
+	background-size: cover;
+}
+.white-text{
+	color: white;
+	margin-top: 20%;
+	margin-bottom: 3%;
+	margin-left: 5%;
+}
+.gray-text{
+	color: gray;
+	margin-top: 2%;
+	margin-bottom: 22%;
+	margin-left: 5%;
+}
+/*Content under nav menu-ending*/
+
+
+/*Before footer and footer links-beginning*/
+.before-footer-links-main {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+.before-footer-links{
+	background-image: url('Dejan_NovModul::images/above-footer.jpg');
+	background-position: center center;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 500px;
+	background-size: cover;
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: row;
+	align-items: center;
+}
+.bfl-first-div{
+	display: flex;
+	width: 49%;
+	height: 100%;
+	text-align: center;
+	align-items: center;
+}
+.bfl-second-div{
+	display: flex;
+	width: 49%;
+	height: 100%;
+	text-align: center;
+	align-items: center;
+}
+.bfl-vertical-line{
+	height: 32%;
+	width: 1.5px;
+	background-color: white;
+	margin-top: 50px;
+}
+.bfl-text-white{
+	display: block;
+	color: white;
+}
+
+.bfl-text-area-margin{
+	margin-top:140px;
+	margin-bottom: 0px;
+	font-size: 80px;
+}
+.bfl-button {
+  background-color: #9C1C28;
+  border: none;
+  color: white;
+  padding: 3px 45px;
+  text-decoration: none;
+  display: block;
+  font-size: 18px;
+  cursor: pointer;
+  border-radius:20px;
+  margin: auto;
+  margin-top: 20px;
+}
+.bfl-second-p{
+	font-size: 40px;
+	margin-top: -20px;
+}
+.bfl-third-p{
+	font-size: 15px;
+	/*margin-bottom: 10px;*/
+}
+/*Before footer and footer link-ending*/
